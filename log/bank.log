@@ -1,0 +1,149 @@
+[2018-05-14 17:35:12,398 - INFO - access - my_logset.py - 42 ] access 
+[2018-05-14 17:35:12,398 - ERROR - access - my_logset.py - 43 ] Error 
+[2018-05-14 17:35:12,399 - INFO - trans - my_logset.py - 46 ] trans 
+[2018-05-15 11:11:04,473 - ERROR - access - auth.py - 65 ] Account [dd] does not exist! 
+[2018-05-15 11:11:04,473 - ERROR - access - auth.py - 65 ] Account [dd] does not exist! 
+[2018-05-15 11:13:30,392 - ERROR - access - auth.py - 65 ] Account [s] does not exist! 
+[2018-05-15 11:13:30,392 - ERROR - access - auth.py - 65 ] Account [s] does not exist! 
+[2018-05-15 11:13:38,962 - ERROR - access - auth.py - 62 ] Account ID or password is incorrect! 
+[2018-05-15 11:13:38,962 - ERROR - access - auth.py - 62 ] Account ID or password is incorrect! 
+[2018-05-15 11:14:44,044 - ERROR - access - auth.py - 62 ] Account ID or password is incorrect! 
+[2018-05-15 11:14:44,044 - ERROR - access - auth.py - 62 ] Account ID or password is incorrect! 
+[2018-05-15 11:21:16,902 - ERROR - access - auth.py - 65 ] Account [luf] does not exist! 
+[2018-05-15 11:22:13,027 - ERROR - access - auth.py - 65 ] Account [aa] does not exist! 
+[2018-05-15 11:22:29,203 - ERROR - access - auth.py - 65 ] Account [aa] does not exist! 
+[2018-05-15 11:22:29,203 - ERROR - access - auth.py - 65 ] Account [aa] does not exist! 
+[2018-05-15 11:24:50,042 - ERROR - access - auth.py - 65 ] Account [dd] does not exist! 
+[2018-05-15 11:24:56,663 - ERROR - access - auth.py - 62 ] Account ID or password is incorrect! 
+[2018-05-15 11:25:05,856 - INFO - access - auth.py - 59 ] ***********»¶Ó­luffyµÇÂ¼*********** 
+[2018-05-15 11:26:22,466 - INFO - access - auth.py - 60 ] ***********»¶Ó­luffyµÇÂ¼*********** 
+[2018-05-15 11:27:51,872 - INFO - access - auth.py - 61 ] ***********»¶Ó­luffyµÇÂ¼*********** 
+[2018-05-15 11:31:16,524 - ERROR - access - auth.py - 65 ] Account ID or password is incorrect! 
+[2018-05-15 11:31:26,213 - INFO - access - auth.py - 62 ] ***********»¶Ó­luffyµÇÂ¼*********** 
+[2018-05-15 11:41:17,054 - INFO - access - auth.py - 62 ] ***********»¶Ó­luffyµÇÂ¼*********** 
+[2018-05-15 11:43:05,114 - INFO - access - auth.py - 62 ] ***********»¶Ó­luffyµÇÂ¼*********** 
+[2018-05-15 11:46:06,520 - INFO - access - auth.py - 62 ] ***********»¶Ó­luffyµÇÂ¼*********** 
+[2018-05-15 11:50:04,910 - INFO - access - auth.py - 62 ] ***********»¶Ó­luffyµÇÂ¼*********** 
+[2018-05-15 11:55:47,634 - INFO - access - auth.py - 62 ] ***********»¶Ó­luffyµÇÂ¼*********** 
+[2018-05-15 11:57:10,253 - INFO - access - auth.py - 62 ] ***********»¶Ó­luffyµÇÂ¼*********** 
+[2018-05-15 13:34:46,848 - INFO - access - auth.py - 62 ] ***********»¶Ó­luffyµÇÂ¼*********** 
+[2018-05-15 13:42:36,214 - INFO - access - auth.py - 62 ] ***********»¶Ó­luffyµÇÂ¼*********** 
+[2018-05-15 13:43:33,756 - INFO - access - auth.py - 62 ] ***********»¶Ó­luffyµÇÂ¼*********** 
+[2018-05-15 13:43:35,348 - INFO - access - main.py - 46 ]  
+       --------- USER INFO --------
+       user_id:     luffy
+       Credit :     50000
+       Balance:     1000000
+       expire_date: 2021-01-01      
+       ----------------------------------
+        
+[2018-05-15 13:46:30,285 - INFO - access - auth.py - 62 ] ***********»¶Ó­luffyµÇÂ¼*********** 
+[2018-05-15 13:46:32,099 - INFO - access - main.py - 46 ]  
+       --------- USER INFO --------
+       user_id:     luffy
+       Credit :     50000
+       Balance:     1000000
+       expire_date: 2021-01-01      
+       ----------------------------------
+        
+[2018-05-15 13:48:02,996 - INFO - access - auth.py - 62 ] ***********»¶Ó­luffyµÇÂ¼*********** 
+[2018-05-15 13:48:04,844 - INFO - access - main.py - 46 ]  
+       --------- USER INFO --------
+       user_id:     luffy
+       Credit :     50000
+       Balance:     1000000
+       expire_date: 2021-01-01      
+       ----------------------------------
+        
+[2018-05-15 13:49:25,679 - INFO - access - auth.py - 62 ] ***********»¶Ó­luffyµÇÂ¼*********** 
+[2018-05-15 13:49:27,539 - INFO - access - main.py - 46 ]  
+       --------- USER INFO --------
+       user_id:     luffy
+       Credit :     50000
+       Balance:     1000000
+       expire_date: 2021-01-01      
+       ----------------------------------
+        
+[2018-05-15 13:49:42,218 - INFO - transaction - main.py - 65 ] New Balance:999750.0 
+[2018-05-15 13:50:31,991 - ERROR - access - auth.py - 68 ] Account [luf] does not exist! 
+[2018-05-15 13:50:39,823 - INFO - access - auth.py - 62 ] ***********»¶Ó­luffyµÇÂ¼*********** 
+[2018-05-15 13:50:46,105 - INFO - access - main.py - 46 ]  
+       --------- USER INFO --------
+       user_id:     luffy
+       Credit :     50000
+       Balance:     1000000
+       expire_date: 2021-01-01      
+       ----------------------------------
+        
+[2018-05-15 13:50:59,969 - INFO - transaction - main.py - 65 ] New Balance:999750.0 
+[2018-05-15 13:54:30,332 - ERROR - access - auth.py - 68 ] Account [ad] does not exist! 
+[2018-05-15 13:54:34,139 - INFO - access - auth.py - 62 ] ***********»¶Ó­luffyµÇÂ¼*********** 
+[2018-05-15 13:54:37,794 - INFO - access - main.py - 46 ]  
+       --------- USER INFO --------
+       user_id:     luffy
+       Credit :     50000
+       Balance:     1000000
+       expire_date: 2021-01-01      
+       ----------------------------------
+        
+[2018-05-15 13:54:54,723 - INFO - transaction - main.py - 65 ] New Balance:999750.0 
+[2018-05-15 13:56:22,339 - INFO - access - auth.py - 62 ] ***********»¶Ó­luffyµÇÂ¼*********** 
+[2018-05-15 13:56:24,029 - INFO - access - main.py - 46 ]  
+       --------- USER INFO --------
+       user_id:     luffy
+       Credit :     50000
+       Balance:     1000000
+       expire_date: 2021-01-01      
+       ----------------------------------
+        
+[2018-05-15 13:56:28,822 - INFO - transaction - main.py - 65 ] New Balance:999750.0 
+[2018-05-15 13:56:58,429 - INFO - transaction - main.py - 65 ] New Balance:999500.0 
+[2018-05-15 15:31:11,866 - INFO - access - auth.py - 62 ] ***********»¶Ó­luffyµÇÂ¼*********** 
+[2018-05-15 15:31:14,087 - INFO - access - main.py - 46 ]  
+       --------- USER INFO --------
+       user_id:     luffy
+       Credit :     50000
+       Balance:     999500.0
+       expire_date: 2021-01-01      
+       ----------------------------------
+        
+[2018-05-15 15:31:22,511 - INFO - transaction - main.py - 65 ] New Balance:997000.0 
+[2018-05-15 15:31:33,229 - INFO - access - main.py - 46 ]  
+       --------- USER INFO --------
+       user_id:     luffy
+       Credit :     50000
+       Balance:     997000.0
+       expire_date: 2021-01-01      
+       ----------------------------------
+        
+[2018-05-15 15:33:11,628 - ERROR - access - auth.py - 68 ] Account [abc] does not exist! 
+[2018-05-15 15:33:16,148 - INFO - access - auth.py - 62 ] ***********»¶Ó­luffyµÇÂ¼*********** 
+[2018-05-15 15:33:17,901 - INFO - access - main.py - 46 ]  
+       --------- USER INFO --------
+       user_id:     luffy
+       Credit :     50000
+       Balance:     997000.0
+       expire_date: 2021-01-01      
+       ----------------------------------
+        
+[2018-05-15 15:33:24,344 - INFO - transaction - main.py - 65 ] New Balance:996975.0 
+[2018-05-15 15:33:37,245 - INFO - transaction - main.py - 95 ] New Balance:996925.0 new_tesla_bal101000.0  
+[2018-05-15 15:34:52,607 - INFO - access - auth.py - 62 ] ***********»¶Ó­teslaµÇÂ¼*********** 
+[2018-05-15 15:34:54,264 - INFO - access - main.py - 46 ]  
+       --------- USER INFO --------
+       user_id:     tesla
+       Credit :     10000
+       Balance:     101000.0
+       expire_date: 2021-01-01      
+       ----------------------------------
+        
+[2018-05-15 15:42:35,425 - ERROR - access - auth.py - 65 ] Account ID or password is incorrect! 
+[2018-05-15 15:42:40,612 - INFO - access - auth.py - 62 ] ***********»¶Ó­luffyµÇÂ¼*********** 
+[2018-05-15 15:42:42,323 - INFO - access - main.py - 46 ]  
+       --------- USER INFO --------
+       user_id:     luffy
+       Credit :     50000
+       Balance:     996925.0
+       expire_date: 2021-01-01      
+       ----------------------------------
+        
