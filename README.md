@@ -29,7 +29,7 @@
   ├── bin
   │ └── start.py
   └── core
-  └── withdraw.py
+  └── main.py
   ​
 当执行start.py时，出现交互窗口
 
@@ -52,6 +52,6 @@
   ├── bin
   │ └── start.py
   └── core
-  | └── withdraw.py
+  | └── main.py
   └── logs
   └── bank.log
